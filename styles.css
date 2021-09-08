@@ -1,0 +1,25 @@
+#pro-pic {
+    height: 250px;
+    border: solid black 5px;
+    border-radius: 50px;
+}
+
+#pro-pic2 {
+    height: 250px;
+    border: solid black 5px;
+    border-radius: 50px;
+}
+
+div {
+    border:  solid blue 10px;
+    padding: 25px;
+}
+
+h1 {
+    font-family: cursive;
+}
+
+li {
+    margin: 10px;
+    font-style: italic;
+}
